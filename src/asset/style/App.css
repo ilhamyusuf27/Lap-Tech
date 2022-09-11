@@ -1,0 +1,85 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.site-layout-background{
+  height: 100% !important;
+}
+
+.container{
+  width: 100%;
+  height: 100%;
+  border-radius: 8px;
+  padding: 1rem;
+  background-color: var(--mainColor);
+}
+
+.title h1 {
+  font-size: 1.5rem;
+  font-weight: 500 !important;
+}
+
+ */
+
+.ant-layout{
+  height: 100%;
+}
+
+.site-layout-background{
+  height: 100%;
+}
+
+.ant-table-cell-row-hover{
+  cursor: pointer;
+}
+
+.logo{
+  display: flex;
+  margin: 1rem 1rem;
+}
+
+.logo h3{
+  color: var(--mainColor) !important;
+  margin-bottom: 0 !important;
+}
+
+.socialMedia{
+  display: flex;
+  align-items: center;
+  gap: 1rem ;
+  margin-bottom: .75rem;
+}
+
+.socialMedia a {
+  font-size: 1rem;
+}
+
+.justify{
+  text-align: justify;
+}

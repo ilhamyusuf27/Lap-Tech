@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "merk": "Asus",
+    "seri": "M415DAO",
+    "price": 6299000,
+    "title": "ASUS M415DAO"
+  },
+  {
+    "id": 2,
+    "merk": "Asus",
+    "seri": "M3401QC",
+    "price": 13999000,
+    "title": "ASUS Vivobook Pro 14"
+  },
+  {
+    "id": 3,
+    "merk": "Asus",
+    "seri": "FA507RE",
+    "price": 17999000,
+    "title": "ASUS TUF A15"
+  },
+  {
+    "id": 4,
+    "merk": "Asus",
+    "seri": "G513RC",
+    "price": 18999000,
+    "title": "ASUS ROG STRIX G15"
+  },
+  {
+    "id": 5,
+    "merk": "HP",
+    "seri": "BE0000AU",
+    "price": 12625000,
+    "title": "HP Pavilion Aero 13"
+  },
+  {
+    "id": 6,
+    "merk": "HP",
+    "seri": "EC2047AX",
+    "price": 13649000,
+    "title": "HP Pavilion GAMING 15"
+  },
+  {
+    "id": 7,
+    "merk": "HP",
+    "seri": "DQ0508TU",
+    "price": 4399000,
+    "title": "HP 14S"
+  },
+  {
+    "id": 8,
+    "merk": "LENOVO",
+    "seri": "14ALC6 RBID",
+    "price": 6199000,
+    "title": "LENOVO IP Slim 3"
+  },
+  {
+    "id": 9,
+    "merk": "LENOVO",
+    "seri": "15ACH6 UYID",
+    "price": 15199000,
+    "title": "LENOVO Gaming 3"
+  },
+  {
+    "id": 10,
+    "merk": "LENOVO",
+    "seri": "11IGL05 5TID",
+    "price": 4999000,
+    "title": "LENOVO Flex"
+  },
+  {
+    "id": 11,
+    "merk": "LENOVO",
+    "seri": "15ACH6H RPID",
+    "price": 20399000,
+    "title": "LENOVO Legion 5"
+  },
+  {
+    "id": 12,
+    "merk": "DELL",
+    "seri": "R33250",
+    "price": 7499000,
+    "title": "DELL VOSTRO"
+  },
+  {
+    "id": 13,
+    "merk": "DELL",
+    "seri": "R53500",
+    "price": 7649000,
+    "title": "DELL INSPIRON"
+  },
+  {
+    "id": 14,
+    "merk": "HUAWEI",
+    "seri": "10110U",
+    "price": 8999000,
+    "title": "HUAWEI MATEBOOK D15"
+  },
+  {
+    "id": 15,
+    "merk": "HUAWEI",
+    "seri": "I511300H",
+    "price": 16499000,
+    "title": "HUAWEI MATEBOOK 14S"
+  },
+  {
+    "id": 16,
+    "merk": "MSI",
+    "seri": "B5M 068",
+    "price": 10499000,
+    "title": "MSI MODERN 14"
+  },
+  {
+    "id": 17,
+    "merk": "MSI",
+    "seri": "B5DD 281",
+    "price": 11499000,
+    "title": "MSI BRAVO 15"
+  },
+  {
+    "id": 18,
+    "merk": "MSI",
+    "seri": "10SC 819",
+    "price": 9899000,
+    "title": "MSI GF63"
+  },
+  {
+    "id": 19,
+    "merk": "MSI",
+    "seri": "11UD 894",
+    "price": 13999000,
+    "title": "MSI KATANA"
+  }  
+]
