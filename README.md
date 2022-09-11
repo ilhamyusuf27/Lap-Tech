@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="https://res.cloudinary.com/dbi5h4hdg/image/upload/v1661404167/porto/Recipenation/logo_qrorgc.svg" alt="Logo" width="150px">
+    <img src="https://res.cloudinary.com/dbi5h4hdg/image/upload/v1662882113/porto/Lap-Tech/logo_kfgwek.svg" alt="Logo" width="150px">
   </a>
 
   <h3 align="center">Lap-Tech Dashboard</h3>
