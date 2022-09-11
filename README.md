@@ -1,70 +1,165 @@
-# Getting Started with Create React App
+<div id="top"></div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="">
+    <img src="https://res.cloudinary.com/dbi5h4hdg/image/upload/v1661404167/porto/Recipenation/logo_qrorgc.svg" alt="Logo" width="150px">
+  </a>
 
-## Available Scripts
+  <h3 align="center">Lap-Tech Dashboard</h3>
 
-In the project directory, you can run:
+  <p align="center">
+    <a href="https://github.com/ilhamyusuf27/Lap-Tech/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/ilhamyusuf27/Lap-Tech/issues">Request Feature</a>
+  </p>
+</div>
 
-### `npm start`
+<!-- TABLE OF CONTENTS -->
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Table of Contents
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#screenshoots">Screenshots</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#related-project">Related Project</a></li>
+    <li><a href="#our-team">Contact</a></li>
+    <li><a href="#license">License</a></li>
+  </ol>
+</details>
 
-### `npm test`
+<!-- ABOUT THE PROJECT -->
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## About The Project
 
-### `npm run build`
+**Lap-Tech** Lap-Tech is a dashboard to view laptop product data, where the available data are in the form of laptop brands, titles, series, and laptop prices. This application has a pagination feature where each page will display a maximum of 10 data. Then the next feature is search, this search feature is used to search for laptop product data that is being searched based on the product title.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Built With
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This app was built with some technologies below:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Javascript](https://www.javascript.com/)
+- [React](https://reactjs.org/)
+- [Ant Design](https://ant.design/)
 
-### `npm run eject`
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<!-- GETTING STARTED -->
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Getting Started
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Prerequisites
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Before going to the installation stage there are some software that must be installed first.
 
-## Learn More
+- [NodeJs](https://nodejs.org/en/download/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Installation
 
-### Code Splitting
+- Clone the repo
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```
+git clone https://github.com/ilhamyusuf27/Lap-Tech.git
+```
 
-### Analyzing the Bundle Size
+- Go To Folder Repo
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```
+cd Lap-Tech
+```
 
-### Making a Progressive Web App
+- Install Module
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```
+npm install
+```
 
-### Advanced Configuration
+## Screenshoots
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<p align="center" display=flex>
+   
+<table>
+ 
+  <tr>
+    <td><image src="https://res.cloudinary.com/dbi5h4hdg/image/upload/v1662881590/porto/Lap-Tech/Homepage_z6db5v.png" alt="Login Page" width=100%></td>
+    <td><image src="https://res.cloudinary.com/dbi5h4hdg/image/upload/v1662881591/porto/Lap-Tech/About_twh8tm.png" width=100%/></td>
+  </tr>
+   <tr>
+    <td>Home Page</td>
+    <td>About Page</td>
+  </tr>
+  <tr>
+    <td><image src="https://res.cloudinary.com/dbi5h4hdg/image/upload/v1662881590/porto/Lap-Tech/Contact_fbmyg0.png" alt="landing" width=100%></td>
+  </tr>
+  <tr>
+    <td>Contact Page</td>
+  </tr>
+  
+</table>
+      
+</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-### Deployment
+## Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-### `npm run build` fails to minify
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## Related Project
+
+:rocket: [`Frontend Recipenation`](https://github.com/ilhamyusuf27/React-FrontEnd-Recipenation)
+
+:rocket: [`Frontend MyCareer`](https://github.com/ilhamyusuf27/bypass-front-end)
+
+:rocket: [`Frontend Sandank`](https://github.com/ilhamyusuf27/sandank-fe)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## Developer
+
+<center>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/ilhamyusuf27">
+          <img width="100" src="https://avatars.githubusercontent.com/u/43610978?s=400&u=76c4f9fc270cb7cb6e82570927b32973161aa970&v=4" alt="Fandi"><br/>
+          <sub><b>Ilham Yusuf Alghani</b></sub> <br/>
+          <sub>Front End Web Developer | Back End Web Developer</sub>
+        </a>
+      </td>
+  </table>
+</center>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## License
+
+Distributed under the [MIT](/LICENSE) License.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
